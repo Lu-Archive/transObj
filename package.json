@@ -1,0 +1,14 @@
+{
+  "name": "transobj",
+  "version": "1.0.4",
+  "description": "easy to change Object's structor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "interface"
+  ],
+  "author": "Weiqing Ji",
+  "license": "ISC"
+}
